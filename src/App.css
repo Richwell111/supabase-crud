@@ -1,0 +1,7 @@
+/* App.css — layout handled in index.css */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
